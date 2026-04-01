@@ -7,7 +7,7 @@ I’m interested in software engineering, data, networking, and systems roles. I
 ## Featured Projects
 - [Pokeguess](https://github.com/ethanhaug/pokeguess) — Full-stack Pokémon guessing game built with Next.js, TypeScript, Redis, and PokéAPI
 - [Pomodoro Productivity Timer](https://github.com/usd-cs/final-project-mightymeta) — Java desktop productivity app with SQLite persistence and a memory journal
-- [SpaceX Landing Prediction](PASTE_LINK_HERE) — End-to-end data science project using Python, SQL, dashboards, and machine learning
+- [SpaceX Landing Prediction](https://github.com/ethanhaug/spacex-landing-prediction) — End-to-end data science project using Python, SQL, dashboards, and machine learning
 - [Academic Projects Portfolio](https://github.com/ethanhaug/academic-projects-portfolio) — Technical summaries, outputs, and screenshots from systems, networking, and hardware coursework projects
 
 ## Tech
