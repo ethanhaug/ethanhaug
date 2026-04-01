@@ -6,7 +6,7 @@ I’m interested in software engineering, data, networking, and systems roles. I
 
 ## Featured Projects
 - [Pokeguess](https://github.com/ethanhaug/pokeguess) — Full-stack Pokémon guessing game built with Next.js, TypeScript, Redis, and PokéAPI
-- [Pomodoro Productivity Timer](PASTE_LINK_HERE) — Java desktop productivity app with SQLite persistence and a memory journal
+- [Pomodoro Productivity Timer](https://github.com/usd-cs/final-project-mightymeta) — Java desktop productivity app with SQLite persistence and a memory journal
 - [ToreroServe](PASTE_LINK_HERE) — Multithreaded HTTP web server in C++ using TCP sockets and worker threads
 - [SpaceX Landing Prediction](PASTE_LINK_HERE) — End-to-end data science project using Python, SQL, dashboards, and machine learning
 - [DNS Resolver](PASTE_LINK_HERE) — Iterative DNS resolver built in Python using UDP sockets
